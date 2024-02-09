@@ -1,0 +1,13 @@
+Name           SecondWorld
+North          0
+East           0
+South          0
+West           0
+TotalRooms     1
+
+
+ROOMS
+200_0_0
+ENDROOMS
+
+ENDWORLD

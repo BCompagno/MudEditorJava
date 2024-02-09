@@ -1,0 +1,46 @@
+package mudEditor;
+
+public enum eRoomFlags {
+
+	//Note: find out what all these are for and leave comments
+	   eDARK,
+	   eROOMDEATH,
+	   eROOMNONPC,
+	   eROOMIDOORS,
+	   eROOMLAWFUL,
+	   eROOMNEUTRAL,
+	   eROOMCHAOTIC,
+	   eROOMNOMAGIC,
+	   eROOMTUNNEL,
+	   eROOMPRIVATE,
+	   eROOMSAFE,
+	   eROOMSOLITARY,
+	   eROOMPETSHOP,
+	   eROOMNORECALL,
+	   eROOMDONATION,
+	   eROOMNODROPALL,
+	   eROOMSILENCE,
+	   eROOMLOGSPEECH,
+	   eROOMNODROP,
+	   eROOMCLANSTOREROOM,
+	   eROOMNOSUMMON,
+	   eROOMNOASTRAL,
+	   eROOMTELEPORT,
+	   eROOMTELESHOWDESC,
+	   eROOMNOFLOOR,
+	   eROOMNOSUPPLICATE,
+	   eROOMARENA,
+	   eROOMNOMISSILE,
+	   eROOM4,
+	   eROOM5,
+	   eROOMDONOTDISTURB,
+	   eROOMBFS_MARK,
+	   eROOMMERCSHOP,
+	   eROOMBORDER,
+	   eROOMPROTOTYPE,
+	   eROOMNOTBUILT,    //room sub-rooms not built yet
+	   eROOMCONTINENT,   //CONTINENT ROOM
+	   eROOMWORLD,       //WORLD ROOM
+	   
+	   eNUMROOMFLAGS
+};

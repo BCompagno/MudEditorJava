@@ -1,0 +1,18 @@
+WorldHXY       first 200 -1 0
+Name           notset
+~
+Description    notset
+ENDOFDESC
+Sector         eWATERNOSWIM
+Light          eNORMAL
+Flags          eROOMNOTBUILT 
+ROOMEXITS
+Direction    eNORTH
+END
+Direction    eNORTHEAST
+END
+Direction    eEAST
+END
+ENDEXITS
+ENDROOM
+

@@ -1,0 +1,10 @@
+WorldHXY       SecondWorld 200 0 0
+Name           notset
+~
+Description    notset
+ENDOFDESC
+Sector         eWATERNOSWIM
+Light          eNORMAL
+Flags          eROOMNOTBUILT 
+ENDROOM
+
